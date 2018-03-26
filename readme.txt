@@ -34,6 +34,7 @@ Added Sega pico
 Added Sega Visual Memory
 Added Microsoft Xbox
 Added Pokemon mini
+Added Watara Supervision
 
 ===08/16/2016===
 Added Super Grafx
