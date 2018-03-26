@@ -30,6 +30,10 @@ Added Philips CD-i
 Added Plex
 Added PSP mini
 Added VS Systems
+Added Sega pico
+Added Sega Visual Memory
+Added Microsoft Xbox
+Added Pokemon mini
 
 ===08/16/2016===
 Added Super Grafx
